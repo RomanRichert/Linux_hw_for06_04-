@@ -1,0 +1,4 @@
+   0 nano /tmp/script.sh
+   1 chmod +x /tmp/script.sh
+   2 bash /tmp/script.sh
+   3 history > /tmp/history.txt
